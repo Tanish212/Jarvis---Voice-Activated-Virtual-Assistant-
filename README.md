@@ -5,7 +5,7 @@
 browsing, playing music, fetching news, and responding to user queries using OpenAI's 
 GPT-3.5-turbo model.
 
-# FEATURES:
+## FEATURES:
 
 • Voice Recognition 
 
